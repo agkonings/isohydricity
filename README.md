@@ -1,9 +1,7 @@
 This repo contains some data and example code related to microwave vegetation optical depth-based calculations of ecosystem scale isohydricity. For more information about this approach, see the articles:
 
 1) A.G. Konings and P. Gentine (2017): Global variations in ecosystem-scale isohydricity. Global Change Biology 23(2): 891-905.
-
 and 
-
 2) A.G. Konings, A.P. Williams, and P. Gentine (2017): Sensitivity of grassland productivity to aridity controlled by stomatal and xylem 
 regulation. Nature Geoscience. Provisionally Accepted.
 
